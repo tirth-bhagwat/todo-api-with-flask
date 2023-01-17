@@ -132,3 +132,4 @@ dmypy.json
 # Custom
 .vscode
 .idea
+todo_app/api/models/todo-api-with-flask.code-workspace
